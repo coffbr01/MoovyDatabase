@@ -4,10 +4,6 @@
               android:layout_width="fill_parent"
               android:layout_height="fill_parent"
         >
-    <ListView
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent"
-            android:id="@+id/listView"
-            android:choiceMode="singleChoice"/>
+    <!-- This is the home layout. It needs a ListView -->
 </LinearLayout>
 
